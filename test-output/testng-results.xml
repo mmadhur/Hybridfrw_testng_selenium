@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-08T17:03:43 IST" name="InetBankingV1" finished-at="2022-03-08T17:05:17 IST" duration-ms="94538">
+    <groups>
+    </groups>
+    <test started-at="2022-03-08T17:03:43 IST" name="BankingApp Test" finished-at="2022-03-08T17:05:17 IST" duration-ms="94538">
+      <class name="com.inetbanking.testCases.TC_LoginDDT_002">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC_LoginDDT_002@51399530]" started-at="2022-03-08T17:03:45 IST" name="setup" finished-at="2022-03-08T17:04:16 IST" duration-ms="31408" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginDDT(java.lang.String,java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC_LoginDDT_002@51399530]" started-at="2022-03-08T17:04:23 IST" name="loginDDT" data-provider="create" finished-at="2022-03-08T17:04:38 IST" duration-ms="14483" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr389904]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AvUzUnE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method signature="loginDDT(java.lang.String,java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC_LoginDDT_002@51399530]" started-at="2022-03-08T17:04:38 IST" name="loginDDT" data-provider="create" finished-at="2022-03-08T17:04:47 IST" duration-ms="9341" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr83460]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qAbUzyj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method signature="loginDDT(java.lang.String,java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC_LoginDDT_002@51399530]" started-at="2022-03-08T17:04:47 IST" name="loginDDT" data-provider="create" finished-at="2022-03-08T17:04:54 IST" duration-ms="6952" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr137319]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bAdYvyb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method signature="loginDDT(java.lang.String,java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC_LoginDDT_002@51399530]" started-at="2022-03-08T17:04:54 IST" name="loginDDT" data-provider="create" finished-at="2022-03-08T17:05:02 IST" duration-ms="8027" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr164225]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jahetAp]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method signature="loginDDT(java.lang.String,java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC_LoginDDT_002@51399530]" started-at="2022-03-08T17:05:02 IST" name="loginDDT" data-provider="create" finished-at="2022-03-08T17:05:17 IST" duration-ms="15165" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr389904]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AvUzUnE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+      </class> <!-- com.inetbanking.testCases.TC_LoginDDT_002 -->
+    </test> <!-- BankingApp Test -->
+  </suite> <!-- InetBankingV1 -->
+</testng-results>
